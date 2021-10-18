@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/olimpiaursu.github.io/static/css/main.98bcebb2.chunk.css",
+    "main.js": "/olimpiaursu.github.io/static/js/main.e3b7cc30.chunk.js",
+    "main.js.map": "/olimpiaursu.github.io/static/js/main.e3b7cc30.chunk.js.map",
+    "runtime-main.js": "/olimpiaursu.github.io/static/js/runtime-main.84a98b4f.js",
+    "runtime-main.js.map": "/olimpiaursu.github.io/static/js/runtime-main.84a98b4f.js.map",
+    "static/js/2.5750e2f8.chunk.js": "/olimpiaursu.github.io/static/js/2.5750e2f8.chunk.js",
+    "static/js/2.5750e2f8.chunk.js.map": "/olimpiaursu.github.io/static/js/2.5750e2f8.chunk.js.map",
+    "static/js/3.28c093e1.chunk.js": "/olimpiaursu.github.io/static/js/3.28c093e1.chunk.js",
+    "static/js/3.28c093e1.chunk.js.map": "/olimpiaursu.github.io/static/js/3.28c093e1.chunk.js.map",
+    "index.html": "/olimpiaursu.github.io/index.html",
+    "static/css/main.98bcebb2.chunk.css.map": "/olimpiaursu.github.io/static/css/main.98bcebb2.chunk.css.map",
+    "static/js/2.5750e2f8.chunk.js.LICENSE.txt": "/olimpiaursu.github.io/static/js/2.5750e2f8.chunk.js.LICENSE.txt",
+    "static/media/design.53ebc598.jpg": "/olimpiaursu.github.io/static/media/design.53ebc598.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84a98b4f.js",
+    "static/js/2.5750e2f8.chunk.js",
+    "static/css/main.98bcebb2.chunk.css",
+    "static/js/main.e3b7cc30.chunk.js"
+  ]
+}
